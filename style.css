@@ -8,6 +8,7 @@ body {
 p{
   color: black;
   font-family: Helvetica, sans-serif;
+  font-weight: lighter; 
 }
 h2{
   color: black;
