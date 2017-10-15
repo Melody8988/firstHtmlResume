@@ -72,26 +72,32 @@ img {
 }
 
 #link{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
 #contact{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
 #email{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
 #phone{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
 #references{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
 #request{
+  text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
 }
