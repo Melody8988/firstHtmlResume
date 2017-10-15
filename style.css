@@ -12,3 +12,7 @@ h2{
   font-family: Helvetica, sans-serif;
   font-weight: lighter; 
 }
+
+.container {
+  display: flex;
+}
