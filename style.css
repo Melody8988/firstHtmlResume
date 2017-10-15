@@ -3,7 +3,7 @@ body {
 }
 
 p{
-  color: black;
+  color: red;
   font-family: Helvetica, sans-serif;
   font-weight: lighter; 
 }
@@ -13,22 +13,22 @@ h2{
   font-weight: lighter; 
 }
 
-div {
+div{
   padding-right: 30px;
   height: 100%;
   width: 100%;
 }
 
-.container {
+.container{
   display: flex;
 }
 
-.main {
+.main{
   padding-left: 30px;
   min-width: 75%;
 }
 
-.nav {
+.nav{
   background-color: #FFEE00;
   max-width: 25%;
   min-width: 140px;
