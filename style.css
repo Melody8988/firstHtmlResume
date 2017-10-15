@@ -17,6 +17,10 @@ p {
 h2 {
   text-align: center;
   font-size: 2.6rem;
+  color: black;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter; 
+
 }
 
 div {
