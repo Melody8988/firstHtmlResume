@@ -44,7 +44,7 @@ div {
 
 .nav {
   background-color: #9CA4B7;
-  min-width: 300px;
+  min-width: 290px;
   flex: 1;
 }
 
@@ -54,7 +54,7 @@ div {
 
 #name {
   text-align: center;
-  font-family: Bickham Script, serif;
+  font-family: Parkavenue, cursive;
   font-weight: lighter; 
   font-size: 30px;
 }
