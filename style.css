@@ -58,8 +58,12 @@ div {
   font-family: New Century Schoolbook, serif;
   font-weight: lighter; 
   font-size: 30px;
-  
-  
+}
+
+#portfolio {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter; 
 }
 
 img {
@@ -68,10 +72,6 @@ img {
  
 }
 
-#portfolio{
-  font-family: 'Lato', sans-serif;
-  font-weight: lighter; 
-}
 #link{
   font-family: 'Lato', sans-serif;
   font-weight: lighter; 
