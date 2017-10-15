@@ -6,7 +6,7 @@ html, body {
 }
 
 h2 {
-  font-size: 38px;
+  font-size: 28px;
   color: black;
   font-family: Helvetica, sans-serif;
   font-weight: lighter; 
@@ -15,6 +15,9 @@ h2 {
 p {
   max-width: 65%;
   min-width: 500px;
+  color: black;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter; 
 }
 
 h4 {
